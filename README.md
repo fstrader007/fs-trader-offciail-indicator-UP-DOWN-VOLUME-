@@ -10,7 +10,7 @@
 
 A professional volume analysis indicator for MetaTrader 5 that separates bullish and bearish volume into clear visual components.
 
-![UpDownVolume Preview](docs/preview.png)
+[![UpDownVolume Preview](docs/preview.png)](https://i.ibb.co/qL6RZmG5/Screenshot-3.png)
 
 ## 📊 Description
 
@@ -192,4 +192,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **© 2025 FS-Traders Official | Made By DEV-ARSLAN**  
+
 *Professional Trading Solutions & Indicators*
